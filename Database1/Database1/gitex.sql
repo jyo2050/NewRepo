@@ -4,6 +4,6 @@
 	@comapnyaddress nvarchar(250),
 	@city nvarchar(100)
 AS
-    insert into gitexample.CustomersSSIS values(@ID,@companyname)
+    insert into gitexample.CustomersSSIS values(@ID,@companyname,@companyaddress,@city)
 	SELECT @ID, @companyname
 RETURN 0
