@@ -66,5 +66,6 @@
     <None Include="Database1.publish.xml" />
     <None Include="Database1_1.publish.xml" />
     <None Include="Database1_2.publish.xml" />
+    <None Include="Database1_3.publish.xml" />
   </ItemGroup>
 </Project>
