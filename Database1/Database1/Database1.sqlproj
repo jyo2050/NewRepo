@@ -60,9 +60,11 @@
   <ItemGroup>
     <Build Include="CustomersSSIS.sql" />
     <Build Include="gitexample.sql" />
+    <Build Include="gitex.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Database1.publish.xml" />
     <None Include="Database1_1.publish.xml" />
+    <None Include="Database1_2.publish.xml" />
   </ItemGroup>
 </Project>
